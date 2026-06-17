@@ -33,13 +33,6 @@
 - Java I/O
 - String Manipulation
 ---
----
-### Computer Science Fundamentals
-- Data Structures & Algorithms
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
---- 
 
 ### Tools & Technologies
 - Git
@@ -50,8 +43,6 @@
 ## 🌱 Currently Learning
 
 - Advanced Java
-- JDBC
-- SQL
 - Design Patterns
 - Software Engineering Concepts
 - Problem Solving & DSA
