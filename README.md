@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palak Panchal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Core+Java+%7C+DSA+%7C+OOP;Frontend+%7C+Cloud+%7C+Game+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Core+Java+%7C+DSA+%7C+Basic+Python+%7C+HTML+%7C+CSS;Frontend+%7C+Cloud+%7C+Game+Dev" alt="Typing SVG" />
 </p>
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer</h3>
 
