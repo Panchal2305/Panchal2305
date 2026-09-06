@@ -51,22 +51,30 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🧠 Core Computer Science
+### 🧠 Core Computer Science Fundamentals
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-388E3C?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-0288D1?style=for-the-badge)
+![Object-Oriented Programming](https://img.shields.io/badge/OOP-1976D2?style=for-the-badge)
+![Database Management Systems](https://img.shields.io/badge/DBMS-0288D1?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-5E35B1?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-3949AB?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-F57C00?style=for-the-badge)
 
 ### 🌐 Web Technologies & Database
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Design & Professional Skills
+### 🛠️ Developer Tools & Environments
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+### 🤝 Professional & Soft Skills
 ![Public Speaking](https://img.shields.io/badge/Public_Speaking-607D8B?style=for-the-badge)
 ![Team Management](https://img.shields.io/badge/Team_Management-546E7A?style=for-the-badge)
 ![Team Leadership](https://img.shields.io/badge/Team_Leadership-455A64?style=for-the-badge)
 ![Leadership](https://img.shields.io/badge/Leadership-37474F?style=for-the-badge)
-
 ---
 
 ## 🚀 Projects
